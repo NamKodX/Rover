@@ -88,7 +88,7 @@ void displayResults();  // Gelen verileri göster
 ```
 
 ---
-
+![Rover Final](tank.jpg)
 ## 📝 Katkıda Bulunma & Lisans
 Bu proje **kişisel geliştirme amaçlıdır** ve herkesin kullanımı için açıktır. Geliştirmeye katkıda bulunmak isterseniz **pull request** gönderebilir veya issue açabilirsiniz!
 
