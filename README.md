@@ -5,7 +5,7 @@ Bu proje, **NRF24L01 ile kablosuz olarak kontrol edilen sıfırdan tasarlanmış
 
 ## 📷 Kumanda ve Diyagram
 Aşağıda kumanda kartının şematik görüntüsü verilmiştir:
-
+ 
 ![Kumanda Diyagramı](kumanda.png)
 
 ---
